@@ -50,6 +50,24 @@ No plugins required. Google Fonts (Oswald + Inter) load automatically; the theme
 - **Block styles:** Cut outline (button), Big (quote), Card (group), Framed (image), Poster (heading).
 - **Front-end script:** `assets/js/theme.js` handles the back-to-top button, scroll reveals and stat counters — vanilla JS, no dependencies.
 
+## Design Previews
+
+![Homepage](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-main.png)
+
+![Services & prices](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-services.png)
+
+![Mobile](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-mobile.png)
+
+![Bone light variation](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-bone.png)
+
+![Gallery](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-gallery.png)
+
+![Team](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-team.png)
+
+![Booking](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-booking-scaled.png)
+
+![Testimonials](https://nour-el-houda-bouajila.rf.gd/wp-content/uploads/2026/10/maqss-testimonials.png)
+
 ## Changelog
 
 ### 1.0.0
